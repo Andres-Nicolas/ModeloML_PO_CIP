@@ -110,5 +110,8 @@ Si deseas contribuir o tienes dudas, puedes contactarme en:
 📧 Correo: [ingdres.rodriguez@gmail.com]
 📌 GitHub: [Andres-Nicolas]
 
+📧 Correo: [riverosadrian7@gmail.com]
+📌 GitHub: [Adrixy]
+
 ¡Espero que este proyecto sea útil para entender cómo predecir niveles de obesidad con Machine Learning! 🚀
 
