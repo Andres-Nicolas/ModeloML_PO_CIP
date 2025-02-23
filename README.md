@@ -39,7 +39,7 @@ El dataset contiene diversas características relevantes, entre ellas:
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/Andres-Nicolas/ModeloML_PO_CIP.git
    ```
 2. **Abrir el notebook en Google Colab**
    - Subir el archivo `.ipynb` a Google Drive
